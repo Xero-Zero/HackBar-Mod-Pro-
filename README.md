@@ -7,19 +7,19 @@ What's New?
 
 1.Added in  PHP Script function
 
-  (i) php backdoor 
+   php backdoor 
   
-  (ii)php post backdoor 
+   php post backdoor 
   
-  (iii)new backdoor
+   new backdoor
   
 2.Added in XSS function 
 
-  (i)Add usefull some payload 
+  Add usefull some payload 
   
 3.Added in LINK function
 
-  (i)Usefull some repo and some website
+  Usefull some repo and some website
   
 Special Thank: After Moded Developer and My Fri Bro Omicron John
 
